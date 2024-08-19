@@ -1,2 +1,3 @@
 # EDA-OF-CAR
-i have performed a exploratory data analysis on a data set of car 
+Performed a exploratory data analysis on a data set of car which include various attributes of cars like brand, price,number of cars, mileage etc.
+
